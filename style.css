@@ -3,12 +3,13 @@ html {
 }
 
 body {
-	text-align: center;
+	text-align: left;
 	max-width: 1000px;
-	margin: 0px 460px 0px 460px;
+	margin: 0px 1000px 0px 20px;
 	padding-top:20px;
-	padding-bottom: 500px;
-	background-color: rgba(0, 0, 0, 0.5);
+	padding-bottom: 20px;
+	padding-left: 10px;
+	background-color: rgba(0, 0, 0, 1);
 	color: white;
 }
 
