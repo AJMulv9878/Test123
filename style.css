@@ -1,0 +1,17 @@
+html {
+	background-image: url("amazing.jpg");
+}
+
+body {
+	text-align: center;
+	max-width: 1000px;
+	margin: 0px 460px 0px 460px;
+	padding-top:20px;
+	padding-bottom: 500px;
+	background-color: rgba(0, 0, 0, 0.5);
+	color: white;
+}
+
+ul {
+	list-style-type: none;
+}
